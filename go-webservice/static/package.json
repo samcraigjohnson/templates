@@ -1,0 +1,18 @@
+{
+  "name": "schedule-circle",
+  "version": "0.0.1",
+  "description": "schedule your routine",
+  "author": "Sam Johnson",
+  "dependencies": {
+    "@types/react": "^0.14.43",
+    "@types/react-dom": "^0.14.18",
+    "react": "^15.3.2",
+    "react-dom": "^15.3.2",
+    "typescript": "^2.0.6",
+    "webpack": "^1.13.3"
+  },
+  "devDependencies": {
+    "source-map-loader": "^0.1.5",
+    "ts-loader": "^0.9.5"
+  }
+}
